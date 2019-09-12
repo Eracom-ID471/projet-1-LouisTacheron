@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-@import url('//fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap&subset=latin-ext');
 
 
 body{
@@ -73,7 +73,6 @@ nav li{
 /* About */
 
 .about{
-  position: relative;
   height: 50vh;
   width: 100vw;
   /*
@@ -84,10 +83,17 @@ nav li{
   */
 }
 
-.attout img{
-  width: 100%;
+.textabout, .imageabout{
+  display: inline-block;
+  width: 49%;
+  height: 100%;
 }
 
+.imageabout{
+  background-image: url("images/motif5.jpg");
+  background-size: 100%;
+}
+/*
 .about p{
   position: absolute;
   right: 0%;
@@ -96,7 +102,7 @@ nav li{
   margin-right: 5vmin;
   text-align: justify;
   font-size: 3.5vmin;
-}
+}*/
 
 /* Work */
 
