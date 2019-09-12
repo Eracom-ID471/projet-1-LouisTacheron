@@ -5,15 +5,72 @@
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
+html {
+  font-size: 32px;
+}
+
+.titre h1 {
+    font-size: 2rem;
+}
+
+.titre h2 {
+    font-size: 1rem;
+}
+
 body{
   font-family: 'Montserrat', sans-serif;
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: repeat(5, 1fr);
+}
+
+.home{
+  height:100vh;
+  weight:100vw;
+}
+
+nav{
+  position: relative;
+  height: 10%;
+  weight: 100%;
+}
+
+nav ul{
+  position: absolute;
+  right:0%;
+}
+
+nav li{
+  display: inline-block;
 }
 
 .titre{
-  grid
+  position: relative;
+  height:90%;
+  weight:100%;
+}
+
+.titre div{
+  position: absolute;
+  bottom:0%;
+  margin: 1rem;
+}
+
+.about{
+  height:25vh;
+  weight:100vw;
+}
+
+.work{
+  height:150vh;
+  weight:100vw;
+}
+
+.contact{
+  height:25vh;
+  weight:100vw;
+}
+
+footer{
+  height:10vh;
+  weight:100vw;
 }
 
 /* Commentaire */
