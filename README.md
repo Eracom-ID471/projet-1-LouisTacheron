@@ -26,4 +26,4 @@ Je suis passablement déçu du résultat dans la mesure où j'y ai mis beaucoup 
 
 ## Résultat
 
-Si vous souhaiter
+Si vous souhaiter tout de même observer mon travail en dépis de mon portfolio, retrouver moi sur [Instagram](https://www.instagram.com/lewis.thirteen/)
