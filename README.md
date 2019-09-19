@@ -24,6 +24,4 @@ L’objectif de mon Portfolio était de créer un site simple, accès sur la pr�
 
 Je suis passablement déçu du résultat dans la mesure où j'y ai mis beaucoup d'effort et beaucoup d'énérgie sans que cela ne porte ces fruits. J'ai recommencer 3 fois mon portfolio pour au final me rendre que je manquais cruellement de connaissance et par conséquent de temps. Au final je me suis replié sur un template que j'ai modifié temp bien que mal. Cependant je garde espoir, durant mon temp libre je vais continuer à dévelloper mon site comme je l'avais designer.
 
-## Résultat
-
 Si vous souhaiter tout de même observer mon travail en dépis de mon portfolio, retrouver moi sur [Instagram].(https://www.instagram.com/lewis.thirteen/)
